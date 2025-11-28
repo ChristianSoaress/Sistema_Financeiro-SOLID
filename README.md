@@ -11,7 +11,7 @@ Em desenvolvimento
 - Git (Versionamento)
 
 ## Time de Desenvolvedores
-- [Christian Soares]
+- [Bruno Rosa Maia]
 
 ## Objetivo do Software
 O SCRS é um sistema desktop desenvolvido para auxiliar no registro de vendas de seguros, permitindo o cadastro, edição e remoção de registros de clientes, além de gerenciar usuários com diferentes níveis de acesso.
